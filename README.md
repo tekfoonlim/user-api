@@ -112,8 +112,8 @@ Example:
 
 ```json
 {
-  "name": "John Doe",
-  "email": "john@example.com"
+  "name": "Joseph",
+  "email": "joe@example.com"
 }
 ```
 
@@ -135,5 +135,3 @@ data/users.json
 * Error handling is implemented for invalid inputs and missing users
 
 ---
-
-* Your Name
