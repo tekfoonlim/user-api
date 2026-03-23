@@ -1,0 +1,37 @@
+[
+  {
+    "id": "6df0fa2f-307c-4fbe-93e0-ce015748bb23",
+    "name": "Sachin",
+    "email": "sachin@example.com"
+  },
+  {
+    "id": "6cb6143c-9d39-4b91-84c0-1740744c3cb9",
+    "name": "Ajay",
+    "email": "ajay@example.com"
+  },
+  {
+    "id": "3ebafa60-50b2-4c02-b7ff-5dce3b171f5a",
+    "name": "Ashoke",
+    "email": "ashoke@example.com"
+  },
+  {
+    "id": "4ddf6a97-6b79-4e53-b23a-e739fe4be24e",
+    "name": "Amit",
+    "email": "amit_mishra123@example.com"
+  },
+  {
+    "id": "c0394452-c7d7-4a45-8dbb-2b61f695060e",
+    "name": "Rakesh",
+    "email": "rakesh@example.com"
+  },
+  {
+    "id": "3cee59d2-f016-499d-b3d6-0ec20b1798ff",
+    "name": "Indranil",
+    "email": "palit@example.com"
+  },
+  {
+    "id": "36be3a89-737b-400d-a36b-a8fed630be47",
+    "name": "Joseph",
+    "email": "joe@example.com"
+  }
+]
