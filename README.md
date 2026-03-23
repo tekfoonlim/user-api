@@ -130,8 +130,7 @@ data/users.json
 
 * This project uses file-based storage (JSON) instead of a database
 * UUID is used for unique user identification
-* PUT endpoint supports partial updates (acts like PATCH)
-* Extra fields in request body are not allowed (strict validation)
+* Extra fields in request body are not allowed (validation)
 * Error handling is implemented for invalid inputs and missing users
 
 ---
